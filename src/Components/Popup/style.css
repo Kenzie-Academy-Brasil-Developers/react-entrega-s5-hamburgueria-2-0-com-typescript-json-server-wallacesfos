@@ -1,0 +1,31 @@
+
+.container-popup{
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.404);
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1, h2, h3, h4{
+    margin: 5px;
+}
+
+.menu-popup{
+    width: 280px;
+    height: auto;
+    background-color: white ;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.image-pop{
+    width: 100%;
+}

@@ -1,0 +1,25 @@
+.container-cardapio{
+    display: flex;
+    padding-top: 150px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.Menu-Cardapio{
+    margin-right: 50px;
+}
+
+.container-cardapio-produtos{
+    display: flex;
+    width: 100%;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+
+@media (max-width: 768px) {
+    .container-cardapio{
+        flex-direction: column;
+        align-items: center;
+    }
+}

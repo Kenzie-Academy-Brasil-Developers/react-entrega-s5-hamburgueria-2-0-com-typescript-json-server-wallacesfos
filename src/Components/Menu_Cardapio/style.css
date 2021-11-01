@@ -1,0 +1,39 @@
+.menu-cardapio{
+    border: 2px solid gray;
+    width: 280px;
+    border-radius: 20px;
+}
+
+.item-menu--cardapio{
+    display: flex;
+    margin-top: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid lightgray;
+    cursor: pointer;
+    color: rgba(0,0,0,.7);
+    font-weight: bold;
+}
+
+.img_menu--cardapio{
+    width: 60px;
+}
+
+.ultimo{
+    border: none;
+}
+
+.all-products{
+    margin-bottom: 50px;
+    border-top: 2px solid gray;
+    border-right: 2px solid gray;
+    border-bottom: 2px solid gray;
+    border-left: 4px solid #e2b646;
+
+    width: 280px;
+    border-bottom-right-radius: 20px ;
+    border-top-right-radius: 20px ;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+}

@@ -1,0 +1,23 @@
+
+.feedback-main{
+    padding-top: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.formulario-feedback{
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.feed-input{
+    margin: 10px 0 10px 0 !important;
+}
+
+.btn-feed{
+    width: 75%;
+}
